@@ -2,3 +2,7 @@ Iniciando chamada API para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023
 Api autenticada para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023-Oct-08-15:54:14
 Dados Salvos para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023-Oct-08-15:54:16
 Processo finalizado para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023-Oct-08-15:54:16
+Iniciando chamada API para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023-Oct-08-16:04:05
+Api autenticada para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023-Oct-08-16:04:05
+Falha ao obter dataset, 2023-Oct-08-16:04:05
+Processo finalizado para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023-Oct-08-16:04:05

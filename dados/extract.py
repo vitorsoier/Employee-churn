@@ -15,12 +15,15 @@ def extract(page, dataset):
     api = KaggleApi()
     api.authenticate()
     log(f"Api autenticada para o dataset {dataset}")
-    api.dataset_download_file(page, file_name=dataset, path="dados")
-    log(f"Dados Salvos para o dataset {dataset}")
+    try:
+        api.dataset_download_file(page, file_name=dataset, path="dados")
+        log(f"Dados Salvos para o dataset {dataset}")
+    except:
+        log("Falha ao obter dataset")
     log(f"Processo finalizado para o dataset {dataset}")
 
 
 extract(
-    "pavansubhasht/ibm-hr-analytics-attrition-dataset",
+    "pavansubhasht/ibm-hr-analytics-at",
     "WA_Fn-UseC_-HR-Employee-Attrition.csv",
 )
