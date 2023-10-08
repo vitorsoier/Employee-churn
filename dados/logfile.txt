@@ -1,4 +1,4 @@
-Iniciando chamada API, 2023-Oct-07-22:24:04
-Api autenticada, 2023-Oct-07-22:24:04
-Dados Salvos, 2023-Oct-07-22:24:05
-Processo finalizado, 2023-Oct-07-22:24:05
+Iniciando chamada API para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023-Oct-08-15:54:14
+Api autenticada para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023-Oct-08-15:54:14
+Dados Salvos para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023-Oct-08-15:54:16
+Processo finalizado para o dataset WA_Fn-UseC_-HR-Employee-Attrition.csv, 2023-Oct-08-15:54:16
